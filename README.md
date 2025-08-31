@@ -16,10 +16,10 @@ An Arduino-based monitoring system that enhances product quality assurance by tr
 - TKLCD 
 
 ### Hardware Diagram
-![alt text](HardwareDiagram.jpg)
+![alt text](HardwareDiagram.png)
 
 ### Keystone Jack Configuration
-![alt text](KeystoneJack.jpg)
+![alt text](KeystoneJack.png)
 
 ### Arduino Pin Allocation
 | Pin on Arduino | Purpose |
