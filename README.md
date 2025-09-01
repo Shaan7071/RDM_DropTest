@@ -42,3 +42,20 @@ An Arduino-based monitoring system that enhances product quality assurance by tr
 ### Resistor Locations
 - 10k Ω resistor from button to ground
 - 220 Ω resistor from LCD + to 5V
+
+### Distance Measuring Accuracy Testing
+| Actual (cm) | Measured (cm) |
+| ----------- | ------------- |
+| 4 | 4.39 |
+| 6 | 6.27 |
+| 8 | 8.34 |
+| 10 | 10.35 |
+| 12 | 12.54 |
+| 14 | 14.65 |
+| 16 | 16.63 |
+| 18 | 18.7 |
+| 20 | 20.49 |
+
+### Plotting A Simulation
+This device will record the number of drops a strap has recieved by monitoring sudden negative changes in distance.
+![alt text](SimulationPlot.png)
