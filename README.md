@@ -57,5 +57,5 @@ An Arduino-based monitoring system that enhances product quality assurance by tr
 | 20 | 20.49 |
 
 ### Plotting A Simulation
-This device will record the number of drops a strap has recieved by monitoring sudden negative changes in distance.
+This device will record the number of drops a strap has recieved by monitoring sudden changes in distance.
 ![alt text](SimulationPlot.png)
